@@ -6,5 +6,15 @@
     "quantity": 5,
     "discount": 0,
     "image": "https://raw.githubusercontent.com/elisacoders/alankara-stock-db/main/images/Pro_Taper_1740021682407.jpg"
-  }
+  },
+  [
+    {
+      "id": 1,
+      "name": "Pro Taper",
+      "price": 750,
+      "quantity": 5,
+      "discount": 1,
+      "image": "https://raw.githubusercontent.com/elisacoders/alankara-stock-db/main/images/Pro_Taper_1740021682407.jpg"
+    }
+  ]
 ]
